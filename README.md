@@ -1,1 +1,3 @@
-# React.JS project with API
+# React.JS project (API used)
+
+https://robofriends.avidim.dev/
