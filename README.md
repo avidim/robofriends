@@ -1,5 +1,3 @@
-# React.JS project (API used)
+# React.JS project (robots gotten by API)
 
 # https://robofriends.avidim.dev/
-
-![Screenshot](robofriends.png)
